@@ -3,7 +3,7 @@
     <img src="./github/logo.png" alt="Gobarber">
     <br>
     <br>
-    🚀 GoBarber Web
+    🚀 GoBarber Api
 </h1>
 
 <div align="center">
